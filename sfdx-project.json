@@ -3,9 +3,9 @@
     {
       "path": "force-app",
       "default": true,
-      "package": "Basic",
+      "package": "Sample",
       "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
+      "versionNumber": "0.1.4.NEXT",
       "versionDescription": "Package for Basic Apex Class"
     }
   ],
