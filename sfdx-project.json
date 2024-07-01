@@ -20,7 +20,7 @@
       "path": "force-app",
       "package": "SF-Pack",
       "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
+      "versionNumber": "0.1.12.NEXT",
       "default": false,
       "versionDescription": ""
     }
