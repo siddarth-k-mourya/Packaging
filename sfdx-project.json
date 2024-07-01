@@ -32,6 +32,7 @@
   "packageAliases": {
     "BasicPack": "0Hoa50000001SdNCAU",
     "BasicPack@0.1.9-1-test": "04ta5000000S4v7AAC",
-    "SF-Pack": "0Hoa50000001SezCAE"
+    "SF-Pack": "0Hoa50000001SezCAE",
+    "SF-Pack@0.1.10-1-test": "04ta5000000S5RNAA0"
   }
 }
