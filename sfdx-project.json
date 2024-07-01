@@ -7,10 +7,21 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.4.NEXT",
       "versionDescription": "Package for Basic Apex Class"
+    },
+    {
+      "path": "force-app",
+      "package": "BasicPack",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "name": "Packaging",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0"
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "BasicPack": "0Hoa50000001SdNCAU"
+  }
 }
