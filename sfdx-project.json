@@ -22,6 +22,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0",
   "packageAliases": {
-    "BasicPack": "0Hoa50000001SdNCAU"
+    "BasicPack": "0Hoa50000001SdNCAU",
+    "BasicPack@0.1.9-1-test": "04ta5000000S4v7AAC"
   }
 }
