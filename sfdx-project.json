@@ -28,7 +28,7 @@
       "path": "force-app",
       "package": "R-APP",
       "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
+      "versionNumber": "0.6.0.NEXT",
       "default": false,
       "versionDescription": "industrial"
     }
