@@ -26,7 +26,7 @@
     }
   ],
   "name": "Packaging",
-  "namespace": "sri",
+  "namespace": "nvin",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0",
   "packageAliases": {
