@@ -23,6 +23,14 @@
       "versionNumber": "0.1.12.NEXT",
       "default": false,
       "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "R-APP",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": "industrial"
     }
   ],
   "name": "Packaging",
@@ -33,6 +41,7 @@
     "BasicPack": "0Hoa50000001SdNCAU",
     "BasicPack@0.1.9-1-test": "04ta5000000S4v7AAC",
     "SF-Pack": "0Hoa50000001SezCAE",
-    "SF-Pack@0.1.10-1-test": "04ta5000000S5RNAA0"
+    "SF-Pack@0.1.10-1-test": "04ta5000000S5RNAA0",
+    "R-APP": "0Hoa50000001VJVCA2"
   }
 }
