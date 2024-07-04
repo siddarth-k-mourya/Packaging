@@ -2,7 +2,11 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Basic",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": "Package for Basic Apex Class"
     }
   ],
   "name": "Packaging",
